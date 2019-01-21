@@ -10,8 +10,8 @@ export const environment = {
   databaseURL: "https://quickstartfirebase-2a96c.firebaseio.com",
   projectId: "quickstartfirebase-2a96c",
   storageBucket: "quickstartfirebase-2a96c.appspot.com",
-  messagingSenderId: "10394927011"
- };
+  messagingSenderId: "10394927011",
+ }
 };
 
 /*
